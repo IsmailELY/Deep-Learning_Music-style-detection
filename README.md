@@ -1,4 +1,4 @@
-## Machine Learning : #Music style detection
+## Machine Learning : Music style detection
 
 This project consists in developing a program in Python which will classify audio tracks according to the genre of music.
 
